@@ -26,14 +26,16 @@ EXPLODE is a federated music streaming platform designed to provide a seamless a
 
 1. **Clone the Repository**
    
-   ``` git clone https://github.com/Explode-Media-Group/EXPLODE-IOS.git ```
+   ```
+   git clone https://github.com/Explode-Media-Group/EXPLODE-IOS.git
+   ```
 
-2. **Open in Xcode**
+3. **Open in Xcode**
 
    - Launch Xcode
    - Open the cloned project directory
 
-3. Build and Run
+4. Build and Run
 
    - Connect your iOS device or launch a simulator
    - Click on the "Run" button in Xcode to build and install the app on your device.
